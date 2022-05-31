@@ -1,0 +1,11 @@
+**/wandb/**
+**/models/**
+**/__pycache__/**
+*.ipynb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+**/data/**
+**/klue_official_data/**
+**/kakao_data/**
+**/extra_data/**
+
